@@ -9,6 +9,9 @@ We also explored the categorical columns and their unique values. We found that 
 
 Data Analysis: We conducted various analyses on the dataset to gain insights into hotel bookings' trends and patterns.
 Here are some of the findings:
+![Screenshot 2023-05-24 163526](https://github.com/shruti2702/myportfolio/assets/130688987/a2b5711f-4f18-4899-b5ba-fd77922778bd)
+![Screenshot 2023-05-24 163600](https://github.com/shruti2702/myportfolio/assets/130688987/007ea4d4-0928-4405-ac2f-a5edb8c53c35)
+
 •	Cancelation Ratio: The dataset has 37% cancelled bookings and 63% not cancelled booking    . 
 •	Cancelation by Hotel Type: The cancelation rate is higher in City hotels compared to Resort hotels.
 •	Average Daily Rate (ADR): The ADR is higher in City hotels than Resort hotels. The ADR also varies throughout the year, with the highest rates in the summer months.
